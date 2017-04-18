@@ -17,7 +17,7 @@ import com.mogikanensoftware.swagger.entity.repo.AccountRepository;
 import com.mogikanensoftware.swagger.entity.repo.BookmarkRepository;
 
 @RestController
-@RequestMapping("/{userId}/bookmarks")
+@RequestMapping("/v1/{userId}/bookmarks")
 public class BookmarkRestController {
 	private final BookmarkRepository bookmarkRepository;
 
