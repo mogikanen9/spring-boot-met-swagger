@@ -27,6 +27,7 @@ Based on [baeldung's post](http://www.baeldung.com/swagger-2-documentation-for-s
 	"description": "Google Home Page"
 }'`
 
-## Swagger Resources
+## Swagger UI and docs
 - http://localhost:8080/v2/api-docs
+- http://localhost:8080/swagger-ui.html
 
