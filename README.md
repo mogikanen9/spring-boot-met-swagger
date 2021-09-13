@@ -26,3 +26,7 @@ Based on [baeldung's post](http://www.baeldung.com/swagger-2-documentation-for-s
 	"uri":"https://google.com",
 	"description": "Google Home Page"
 }'`
+
+## Swagger Resources
+- http://localhost:8080/v2/api-docs
+
